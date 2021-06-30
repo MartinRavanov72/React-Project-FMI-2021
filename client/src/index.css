@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f7f8fc;
+}
+
+* {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+footer {
+    background: rgb(14, 83, 122);
+    margin-top: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4rem;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+footer p {
+    font-size: 0.9rem;
+    text-align: center;
+}
